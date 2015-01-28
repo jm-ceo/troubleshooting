@@ -1,6 +1,4 @@
 # Troubleshooting common problems
-Written by Joshua Merriman
-
 --------
 
 ## What is this?
